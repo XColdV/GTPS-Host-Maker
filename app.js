@@ -9,7 +9,6 @@ fs.writeFile('' + set.hostname + '.' + set.typefile + '', '' + set.ipserver + ' 
 })
 
 
-const hostfile = set.hostname + set.typefile
 
 console.log('------------------------')
 console.log('[ + | GTPS HOST MAKER | + ]')

@@ -1,0 +1,1 @@
+This program will make a GTPS host according to the host name / file type that you want, and you can set it in set.json like ip / file type / hostname. (I Know It's Complicated / Useless, I'm Just Bored, h3h3h3)
